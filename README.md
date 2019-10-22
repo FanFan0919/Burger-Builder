@@ -6,10 +6,14 @@ This is a Burger-builder web application build with React and Redux.
 
 This project uses node and npm. Go check them out if you don't have them locally installed.
 
-> npm install
+> $npm install
 
 # Usage
 
-This project is only a React practice app. You can manage the ingredients to build a burger and view the picture of your burger. 
+This project is only a app for practicing React. 
+
+You can manage the ingredients to build a burger and view the picture of your burger. 
 
 It will show the price of your burger when you check out.
+
+Here is some screenshots of this App.
