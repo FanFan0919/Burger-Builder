@@ -18,8 +18,8 @@ It will also show the price of your burger when you check out.
 
 Here is some screenshots of this App.
 
-![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Burger-Builder/master/screenshots/burgerBuilder.png)
+![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Burger-Builder/master/Screenshots/burgerBuilder.png)
 **Burger Builder**
 
-![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Burger-Builder/master/screenshots/OrderSummary.png)
+![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Burger-Builder/master/Screenshots/OrderSummary.png)
 **Order Summary**
