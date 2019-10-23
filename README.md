@@ -28,5 +28,5 @@ Here is some screenshots of this App.
 ![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Burger-Builder/master/Screenshots/OrderSummary.png)
 **Order Summary**
 
-![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Burger-Builder/master/Screenshots/Current Orders.png)
+![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Burger-Builder/master/Screenshots/CurrentOrders.png)
 **List of Current Orders**
