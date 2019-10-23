@@ -6,7 +6,7 @@ This is a Burger-builder web application build with React and Redux.
 
 This project uses node and npm. Go check them out if you don't have them locally installed.
 
-> $npm install
+> $npm install  
 > $npm install --save axios
 
 # Usage
