@@ -7,11 +7,14 @@ This is a Burger-builder web application build with React and Redux.
 This project uses node and npm. Go check them out if you don't have them locally installed.
 
 > $npm install  
-> $npm install --save axios
+
+This project also uses the Axios package and React-Router-Dom package. Go check them out if you don't have them locally installed.
+> $npm install --save axios  
+> $npm install --save react-router-dom
 
 # Usage
 
-This project is only a app for practicing React. 
+This project is only a app for practicing React. Run **$npm start** at the **src** folder.
 
 You can manage the ingredients to build a burger and view the picture of your burger. 
 
@@ -24,3 +27,6 @@ Here is some screenshots of this App.
 
 ![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Burger-Builder/master/Screenshots/OrderSummary.png)
 **Order Summary**
+
+![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Burger-Builder/master/Screenshots/Current Orders.png)
+**List of Current Orders**
