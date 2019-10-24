@@ -14,11 +14,11 @@ This project also uses the Axios package and React-Router-Dom package. Go check 
 
 # Usage
 
-This project is only a app for practicing React. Run **$npm start** at the **src** folder.
+This project is only an app for practicing. Run **$npm start** at the **src** folder to start.
 
 You can manage the ingredients to build a burger and view the picture of your burger. 
 
-It will also show the price of your burger when you check out.
+It will also show your orders and prices and allow you to check out with some personal information.
 
 Here is some screenshots of this App.
 
