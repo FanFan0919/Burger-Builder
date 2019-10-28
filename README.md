@@ -8,13 +8,16 @@ This project uses node and npm. Go check them out if you don't have them locally
 
 > $npm install  
 
-This project also uses the Axios package and React-Router-Dom package. Go check them out if you don't have them locally installed.
+This project also uses following packages: Axios, React-Router-Dom, Redux and redux-thunk.
+Go check them out if you don't have them locally installed.
 > $npm install --save axios  
-> $npm install --save react-router-dom
+> $npm install --save react-router-dom  
+> $npm install --save redux react-redux  
+> $npm install --save redux-thunk
 
 # Usage
 
-This project is only an app for practicing. Run **$npm start** at the **src** folder to start.
+This project is only an app for practicing. Run **$npm start** to start.
 
 You can manage the ingredients to build a burger and view the picture of your burger. 
 
