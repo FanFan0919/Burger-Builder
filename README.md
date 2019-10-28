@@ -8,7 +8,7 @@ This project uses node and npm. Go check them out if you don't have them locally
 
 > $npm install  
 
-This project also uses following packages: Axios, React-Router-Dom, Redux and redux-thunk.
+This project also uses following packages: Axios, React-Router-Dom, Redux and redux-thunk.  
 Go check them out if you don't have them locally installed.
 > $npm install --save axios  
 > $npm install --save react-router-dom  
@@ -17,13 +17,13 @@ Go check them out if you don't have them locally installed.
 
 # Usage
 
-This project is only an app for practicing. Run **$npm start** to start.
+This project is only an app for practicing. Run **$npm start** to start.  
 
-You can manage the ingredients to build a burger and view the picture of your burger. 
+You can manage the ingredients to build a burger and view the picture of your burger.  
 
-It will also show your orders and prices and allow you to check out with some personal information.
+It will also show your orders and prices and allow you to check out with some personal information.  
 
-Here is some screenshots of this App.
+Here is some screenshots of this App.  
 
 ![ScreenShot](https://raw.githubusercontent.com/FanFan0919/Burger-Builder/master/Screenshots/burgerBuilder.png)
 **Burger Builder**
