@@ -1,6 +1,7 @@
 # Burger Builder
 
-This is a Burger-builder web application build with React and Redux.
+This is a Burger-builder web application build with React and Redux.  
+You can visit the website at https://react-my-burger-72ad3.firebaseapp.com/
 
 # Install
 
